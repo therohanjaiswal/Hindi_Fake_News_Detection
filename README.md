@@ -11,7 +11,7 @@ Dataset: Save all the data set(csv files) in a folder named "final-datasets" in 
 To run BERT Model:
 
 	1. Install the dependencies provided in the requirement file. 
-	2. Go to current directory and excute ```python BERT.py``` command.
+	2. Go to current directory and excute "python BERT.py" command.
 
 	After execution: 
 
@@ -23,7 +23,7 @@ To run LSTM Model:
 	Following are the instruction needed to be followed on all the datasets
 
 	1. Install the dependencies provided in the requirement file.
-	2. Go to current directory and excute ```python LSTM.py``` command.
+	2. Go to current directory and excute "python LSTM.py" command.
    	 
 	After Execution: 
 
